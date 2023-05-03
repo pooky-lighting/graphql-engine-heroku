@@ -15,7 +15,9 @@
   "repository": "https://github.com/pooky-lighting/graphql-engine-heroku",
   "formation": {
     "web": {
-      "quantity": 1
+      "quantity": 1,
+      "size": "standard-2x"
+
     }
   },
   "stack": "container",
